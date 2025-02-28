@@ -1,0 +1,13 @@
+{
+  "name": "travessia_arvores",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "##### Travessia é o precesso de acessar todos os nós da árvore de maneiras específicas, as três formas de travessia são:",
+  "main": "travessiaArvore.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
